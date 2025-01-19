@@ -44,4 +44,4 @@ To run this project, you need to have the following installed:
    ```
 
 ## Usage
-Once the server is running, you can access the API at `http://localhost:7178` (or the specified port). API documentation (e.g., Swagger) may be available at `http://localhost:7178/swagger`.
+Once the server is running, you can access the API at `http://localhost:5052` (or the specified port). API documentation (e.g., Swagger) may be available at `http://localhost:5052/swagger`.
