@@ -31,14 +31,7 @@ To run this project, you need to have the following installed:
    dotnet restore
    ```
 
-4. Set up the database:
-   - Configure the connection string in the `appsettings.json` file under the `ConnectionStrings` section.
-   - Apply migrations to the database:
-     ```bash
-     dotnet ef database update
-     ```
-
-5. Run the application:
+4.  Run the application:
    ```bash
    dotnet run
    ```
