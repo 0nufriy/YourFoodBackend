@@ -11,7 +11,7 @@ YourFoodBackend is a server-side application written in C# that powers the backe
 
 ## Requirements
 To run this project, you need to have the following installed:
-- .NET 7.0 SDK or higher
+- .NET 6.0 SDK or higher
 - Microsoft SQL Server (or another supported database)
 
 ## Installation
